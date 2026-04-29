@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 18:17 IR
+- 📱 [mhrv-rs-android-arm64-v8a-v1.8.5.apk](https://github.com/PMH1400/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.8.5.apk) `18.0MB`
+
+- 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/PMH1400/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip) `6.9MB`
+
+---
+
+
 ### 📅 2026-04-28 22:27 IR
 - 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/PMH1400/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip) `6.9MB`
 
