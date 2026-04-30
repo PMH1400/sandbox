@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 13:37 IR
+- 🗜️ [mariadb_10.6.5_x64.zip](https://github.com/PMH1400/sandbox/raw/main/dl/mariadb_10.6.5_x64.zip) `66.9MB`
+
+---
+
+
 ### 📅 2026-04-30 10:20 IR
 - 🗜️ [Install Termius.exe.zip](https://github.com/PMH1400/sandbox/raw/main/dl/Install%20Termius.exe.zip) `53.8MB`
 
