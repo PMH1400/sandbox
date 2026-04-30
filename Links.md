@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 13:45 IR
+- 🗜️ [xampp-windows-x64-8.2.12-0-VS16-installer.exe.zip](https://github.com/PMH1400/sandbox/raw/main/dl/xampp-windows-x64-8.2.12-0-VS16-installer.exe.zip) `53.7MB`
+
+- 🗜️ [xampp-windows-x64-8.2.12-0-VS16-installer.exe.z01](https://github.com/PMH1400/sandbox/raw/main/dl/xampp-windows-x64-8.2.12-0-VS16-installer.exe.z01) `95.0MB`
+
+- 🗜️ [xampp-windows-x64-8.2.12-0-VS16-installer.exe.zip](https://github.com/PMH1400/sandbox/raw/main/dl/xampp-windows-x64-8.2.12-0-VS16-installer.exe.zip) `53.7MB`
+
+---
+
+
 ### 📅 2026-04-30 13:37 IR
 - 🗜️ [mariadb_10.6.5_x64.zip](https://github.com/PMH1400/sandbox/raw/main/dl/mariadb_10.6.5_x64.zip) `66.9MB`
 
