@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 10:18 IR
+- 📥 [putty-64bit-0.83-installer.msi](https://github.com/PMH1400/sandbox/raw/main/dl/putty-64bit-0.83-installer.msi) `3.7MB`
+
+---
+
+
 ### 📅 2026-04-29 18:17 IR
 - 📱 [mhrv-rs-android-arm64-v8a-v1.8.5.apk](https://github.com/PMH1400/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.8.5.apk) `18.0MB`
 
