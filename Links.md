@@ -2,6 +2,18 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-30 10:20 IR
+- 🗜️ [Install Termius.exe.zip](https://github.com/PMH1400/sandbox/raw/main/dl/Install%20Termius.exe.zip) `53.8MB`
+
+- 🗜️ [Install Termius.exe.z01](https://github.com/PMH1400/sandbox/raw/main/dl/Install%20Termius.exe.z01) `95.0MB`
+
+- 🗜️ [Install Termius.exe.z02](https://github.com/PMH1400/sandbox/raw/main/dl/Install%20Termius.exe.z02) `95.0MB`
+
+- 🗜️ [Install Termius.exe.zip](https://github.com/PMH1400/sandbox/raw/main/dl/Install%20Termius.exe.zip) `53.8MB`
+
+---
+
+
 ### 📅 2026-04-30 10:18 IR
 - 📥 [putty-64bit-0.83-installer.msi](https://github.com/PMH1400/sandbox/raw/main/dl/putty-64bit-0.83-installer.msi) `3.7MB`
 
