@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-07 22:41 IR
+- 📥 [go1.26.3.windows-amd64.msi](https://github.com/PMH1400/sandbox/raw/main/dl/go1.26.3.windows-amd64.msi) `59.4MB`
+
+---
+
+
 ### 📅 2026-05-07 20:09 IR
 - 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/PMH1400/sandbox/raw/main/dl/mhrv-rs-windows-amd64.zip) `7.6MB`
 
